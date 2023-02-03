@@ -1,4 +1,4 @@
-Android app forwarding SMS messages to Telegram bot
+Info bantuan
 ===================================================
 
 [![license: GPL v3](https://img.shields.io/badge/license-GPL_v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
